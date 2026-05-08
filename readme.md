@@ -75,7 +75,7 @@ int main()
     return 0;
 }
 ```
-- we can return any time but we cant5 return value if we use void 
+- we can return any time but we can't return value if we use void 
 
 ```c
 #include <stdio.h>
