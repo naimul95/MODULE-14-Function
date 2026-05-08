@@ -1,6 +1,6 @@
 # MODULE-14-FUNCTION-IN-C
 
-![alt text](image.png)
+
 
 ![alt text](image-1.png)
 
@@ -31,7 +31,7 @@ int main()
 }
 ```
 
-![alt text](image-3.png)
+
 
 - after execution function is removed from the stack memory 
 
